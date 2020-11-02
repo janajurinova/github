@@ -1,1 +1,3 @@
-Skusam co to bude robit.
+Skusam co to bude robit, a teraz spravim upravu aj tu.
+
+Toto je dalsia zmena v tomto subore.
